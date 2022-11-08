@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @umichyujl
+- 👋 Hi, I’m Yujie Liu
 - 👀 I’m interested in computational material science!
-- 🌱 I’m currently learning MSE at umich
-- 💞️ I’m looking to collaborate on computational physics/materials
+- 🌱 I’m currently learning materials science and physics at University of Michigan!
+- 💞️ I’m looking to collaborate on all kinds of computational things! 
 - 📫 How to reach me yujl@umich.edu
 
 <!---
